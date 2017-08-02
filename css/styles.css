@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  padding-bottom: 30px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.column {
+  width: 33%;
+  text-align: left;
+  float: left;
+}
+
+img {
+  max-width: 90%;
+  max-height: 250px;
+}
