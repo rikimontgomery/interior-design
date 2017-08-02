@@ -1,5 +1,6 @@
 body {
   text-align: center;
+  background-color: #F0EEEA;
 }
 
 h1 {
@@ -14,6 +15,7 @@ h2 {
   width: 33%;
   text-align: left;
   float: left;
+  background-color: #F0EEEA;
 }
 
 img {
